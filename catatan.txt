@@ -1,0 +1,19 @@
+{ videoId: 'P6o__eD4quU',
+  url: 'https://www.youtube.com/watch?v=P6o__eD4quU',
+  title: 'WUDUK BATAL BILA BUANG ANGIN - Tanya Jawab ~ Ust. Abdul Somad, Lc. MA.',
+  owner: 'Tafaqquh video',
+  channelId: 'UCTWlnbtIuXO049shX8krvoA',
+  thumbnailUrl: 'https://i.ytimg.com/vi/P6o__eD4quU/hqdefault.jpg',
+  embedURL: 'https://www.youtube.com/embed/P6o__eD4quU',
+  datePublished: '2016-05-23',
+  genre: 'Education',
+  paid: false,
+  unlisted: false,
+  isFamilyFriendly: true,
+  duration: 106,
+  views: 3092,
+  dislikeCount: 1,
+  likeCount: 16,
+  commentCount: 0 }
+
+  node app.js "D:\Users\*\Downloads\D3\Tafaqquh"

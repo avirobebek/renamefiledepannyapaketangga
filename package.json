@@ -1,0 +1,24 @@
+{
+  "name": "renamefiledepannyapaketangga",
+  "version": "0.0.1",
+  "description": "Set file prefix as its youtube published date",
+  "main": "app.js",
+  "dependencies": {
+    "ffmetadata": "^1.5.0",
+    "youtube-info": "^1.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/avirobebek/renamefiledepannyapaketangga.git"
+  },
+  "author": "avirobebek",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/avirobebek/renamefiledepannyapaketangga/issues"
+  },
+  "homepage": "https://github.com/avirobebek/renamefiledepannyapaketangga#readme"
+}
